@@ -1,0 +1,14 @@
+{
+  "query": {
+    "term": {
+      "name": "sapiens"
+    }
+  },
+  "highlight": {
+    "fields": {
+      "name": {
+        "type": "plain"
+      }
+    }
+  }
+}
