@@ -1,0 +1,10 @@
+{
+    "user" : "your_name",
+    "post_date" : "2017-03-21T10:12:12",
+    "message" : "some random text to search Later On",
+    "message2": "moarrrr text txte typoso",
+    "mixed_alphanumeric": "PL-SOMETHING123412212/12/Q1",
+    "internal_nr": 121232412,
+    "float_field": 2.3,
+    "some_id": "q123fdjkljf4321212sdkdjhfkjwehr"
+}
