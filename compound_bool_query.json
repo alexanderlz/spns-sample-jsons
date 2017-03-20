@@ -1,0 +1,19 @@
+{
+    "bool" : {
+        "must" : {
+            "term" : { "name" : "sapiens" }
+        },
+        "must_not" : {
+            "term" : { "previous_name" : "idit" }
+        },
+        "should" : [
+            {
+                "term" : { "tag" : "wow" }
+            },
+            {
+                "term" : { "tag" : "elasticsearch" }
+            }
+        ]
+    }
+}
+
