@@ -1,0 +1,10 @@
+{
+  "query": {
+    "match": {
+      "description": {
+        "query":                "totally useless shit",
+        "minimum_should_match": "50%"
+      }
+    }
+  }
+}

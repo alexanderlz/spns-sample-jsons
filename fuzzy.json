@@ -1,0 +1,12 @@
+{
+  "query": {
+    "fuzzy": {
+      "name": {
+        "value": "sapisne",
+        "fuzziness": 2,
+        "prefix_length": 0,
+        "max_expansions": 100
+      }
+    }
+  }
+}

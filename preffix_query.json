@@ -1,0 +1,7 @@
+{
+  "query": {
+    "prefix": {
+      "previous_name": "idik"
+    }
+  }
+}
