@@ -1,0 +1,8 @@
+{
+  "query": {
+    "query_string": {
+      "default_field": "previous_name",
+      "query": "pidit OR idi OR idit"
+    }
+  }
+}
